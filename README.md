@@ -12,3 +12,4 @@ How to install:
 6. Click on the "Load Rules" button and select the customsoundrules.json file you should have downloaded
 
 <sup>\* Only seems to work on a direct surviv.io link and not https:// or http:// </sup>
+<sup>\* Will soon make this into an extension, please wait </sup>
