@@ -15,7 +15,7 @@ How to install:
 <sup>\* Will soon make this into an extension, please wait </sup>
 
 ## Current Sounds
-  AK 47
+  1. AK 47
   AWC (AWM-S)
   BAR 1918
   Desert Eagle
