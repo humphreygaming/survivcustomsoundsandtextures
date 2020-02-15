@@ -16,7 +16,7 @@ How to install:
 
 ## Current Sounds
   1. AK 47
-  AWC (AWM-S)
+  2. AWC (AWM-S)
   BAR 1918
   Desert Eagle
   DP-28
