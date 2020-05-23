@@ -5,14 +5,14 @@
 ## Installation
 How to install:
 
-1. Download this extension
-3. Open chrome://extensions/
-4. Click "Load unpacked extension..."
-5. Select the directory where the files are placed
+1. Download the customsoundrules.json file
+3. Download resource override from the Chrome Web Store
+4. Once you have gotten the extension, click on the "R" icon 
+5. On the top right, there is a button labeled "Options"; click on it 
+6. Click on the "Load Rules" button and select the customsoundrules.json file you should have downloaded
 
-##FIX 1.1 [2020-05-21]
- * Reworked as an extension.
- * Changed the background on the main screen.
+<sup>\* Only seems to work on a direct surviv.io link and not https:// or http:// </sup>
+<sup>\* Will soon make this into an extension, please wait </sup>
 
 ## Current Sounds
   1. AK 47
