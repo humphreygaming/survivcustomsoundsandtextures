@@ -1,0 +1,23 @@
+{
+    "manifest_version": 2,
+    "name": "Surviv.io Custom Sounds",
+    "author":"HumphreyGaming, brzsmg",
+    "version": "1.0.0",
+    "description": "Custom sounds for surviv.io, worked into an extension by brzsmg",
+    "icons": {
+        "128": "ext_128.png"
+    },
+    "browser_action": {
+        "default_icon": {
+            "128": "ext_128.png"
+        }
+    },
+    "background": {
+        "scripts": [ "background.js" ]
+    },
+    "web_accessible_resources":[
+        "audio/*",
+        "img/*"
+    ],
+    "permissions": [ "storage", "webRequest", "webRequestBlocking", "contextMenus", "https://surviv.io/" ]
+}
