@@ -1,16 +1,26 @@
-# Surviv.io Custom Sounds Resource Pack
-
-
+# Surviv.io Custom Sounds [Resource Pack]
 
 ## Installation
 How to install:
 
-1. Download this extension
+1. Navigate towards releases and download the latest zip file
+2. Place it in a **usable** directory and remember that directory 
 3. Open chrome://extensions/
-4. Click "Load unpacked extension..."
-5. Select the directory where the files are placed
+4. To install, either:
+  * Click "Load unpacked extension..." and select the directory where the zip is located
+  * Drag the zip file directly into the chrome://extensions/ window
 
-##FIX 1.1 [2020-05-21]
+If you did everything right, congratulations - you know how to computer
+
+## Changelog
+#### FEATURE UPDATE 1.2 [2021-05-15]
+ * Fixed broken state (extension work)
+ * Removed background, unusable / broken
+ * Updated manifest.json
+ * Added new sounds
+ * Pending new sounds
+ * Rewrote Readme
+#### FEATURE UPDATE 1.1 [2020-05-21]
  * Reworked as an extension.
  * Changed the background on the main screen.
 
