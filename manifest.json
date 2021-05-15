@@ -2,7 +2,7 @@
     "manifest_version": 2,
     "name": "Surviv.io Custom Sounds",
     "author":"HumphreyGaming, brzsmg",
-    "version": "1.0.0",
+    "version": "1.2.0",
     "description": "Custom sounds for surviv.io, worked into an extension by brzsmg",
     "icons": {
         "128": "ext_128.png"
