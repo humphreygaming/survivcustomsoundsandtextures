@@ -3,7 +3,7 @@
 ## Installation
 How to install:
 
-1. Navigate towards releases and download the latest zip file
+1. Navigate towards releases and download the latest zip file, or use the archives
 2. Place it in a **usable** directory and remember that directory 
 3. Open chrome://extensions/
 4. To install, either:
