@@ -1,4 +1,4 @@
-# Surviv.io Custom Sounds [Resource Pack]
+# Surviv.io Custom Sounds & Textures [Resource Pack]
 
 ## Installation
 How to install:
