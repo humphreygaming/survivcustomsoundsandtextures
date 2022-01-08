@@ -103,16 +103,18 @@ const replaces = new  Map([
     ["https://surviv.io/audio/guns/glock_reload_01.mp3", "/audio/guns/glock_reload_01.mp3"],
     ["https://surviv.io/audio/guns/glock_reload_02.mp3", "/audio/guns/glock_reload_02.mp3"],
     ["https://surviv.io/audio/guns/glock_switch_01.mp3", "/audio/guns/glock_switch_01.mp3"],
+	["https://surviv.io/audio/guns/blr_01.mp3", "/audio/guns/blr_01.mp3"],
     
-    ["https://surviv.io/audio/ambient/menu_music_01.mp3", "/audio/ambient/menu_music_01.mp3"],
-    
+    ["https://surviv.io/audio/ambient/menu_music_01.mp3", "/audio/ambient/DarkIceTheme.mp3"],
+
     ["https://surviv.io/audio/ui/last_man_assigned_01.mp3", "/audio/ui/last_man_assigned_01.mp3"],
 
     ["https://surviv.io/audio/hits/axe_hit_01.mp3", "/audio/hits/axe_hit_01.mp3"],
     ["https://surviv.io/audio/hits/player_bullet_hit_01.mp3", "/audio/hits/player_bullet_hit_01.mp3"],
     ["https://surviv.io/audio/hits/player_bullet_hit_02.mp3", "/audio/hits/player_bullet_hit_02.mp3"],
     
-    ["https://surviv.io/img/main_splash.png", "/img/main_splash.png"]
+    ["https://surviv.io/img/main_splash.jpg", "/img/menu_background.png"],
+    ["https://surviv.io/assets/loadout-0-100-ba5f1ffa.png", "/img/loadout-0-100-ba5f1ffa.png"]
 ]);
 
 const ext = {};
