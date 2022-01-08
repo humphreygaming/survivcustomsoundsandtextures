@@ -13,6 +13,24 @@ How to install:
 If you did everything right, congratulations - you know how to computer
 
 ## Changelog
+#### FEATURE UPDATE 2.1 [2022-01-07]
+ * Renamed to Surviv.io Custom Sounds and Textures Resource Pack (SCS&TRP for short)
+ * Now (probably) integrated into Surviv.io Cheat Injector V3
+ * Added "Dark Ice Theme" menu song
+ * Added a couple unused sounds
+ * Added BLR fire sound
+ * Modified an emote
+ * Added a new background image
+ * Fixed the broken background image
+ * Pending sound fixes + some rewrites
+
+#### FEATURE UPDATE 2.0 [2021-10-12]
+ * Added a couple sounds
+ * Fixed broken sounds
+ * Removed old sounds
+ * Modular update
+ * Pending documentation ^
+
 #### FEATURE UPDATE 1.2 [2021-05-15]
  * Fixed broken state (extension work)
  * Removed background, unusable / broken
