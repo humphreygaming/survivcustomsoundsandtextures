@@ -1,9 +1,9 @@
-# Surviv.io Custom Sounds & Textures [Resource Pack]
+# Surviv.io Custom Sounds [Resource Pack]
 
 ## Installation
 How to install:
 
-1. Navigate towards releases and download the latest zip file, or use the archives
+1. Navigate towards releases and download the latest zip file
 2. Place it in a **usable** directory and remember that directory 
 3. Open chrome://extensions/
 4. To install, either:
@@ -24,7 +24,7 @@ If you did everything right, congratulations - you know how to computer
  * Reworked as an extension.
  * Changed the background on the main screen.
 
-## Current Weapon Sounds
+## Current Sounds
   1. AK 47
   2. AWC (AWM-S)
   3. BAR 1918
@@ -63,10 +63,5 @@ If you did everything right, congratulations - you know how to computer
   36. UMP9
   37. Kriss Vector
   38. VSS Vintorez SDMR
-## Current Extra Sounds
-  1. Main Menu Themes (several tests)
-  2. Experimental Sounds (unused)
-  3. Hit Sounds (several tests)
-  4. Misc Sounds (events, specials, etc.)
   
 ## If something is not working, create an issue
