@@ -23,6 +23,7 @@ If you did everything right, congratulations - you know how to computer
  * Added a new background image
  * Fixed the broken background image
  * Pending sound fixes + some rewrites
+ * PENDING BACKGROUND.JS ORGANIZATION AND FIXES
 
 #### FEATURE UPDATE 2.0 [2021-10-12]
  * Added a couple sounds
