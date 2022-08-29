@@ -117,7 +117,7 @@ const replaces = new  Map([
     ["https://surviv.io/audio/ambient/menu_music_01.mp3", "/audio/ambient/DarkIceTheme.mp3"],
     ["https://surviv.io/audio/ambient/piano_music_01.mp3", "/audio/ambient/piano_music_01.mp3"],
 
-    ["https://surviv.io/audio/ui/last_man_assigned_01.mp3", "/audio/ui/last_man_assigned_01.mp3"],
+    ["https://surviv.io/audio/ui/last_man_assigned_01.mp3", "/audio/ui/Lone_Survivr_Theme.mp3"],
 
     ["https://surviv.io/audio/hits/axe_hit_01.mp3", "/audio/hits/axe_hit_01.mp3"],
     ["https://surviv.io/audio/hits/player_bullet_hit_01.mp3", "/audio/hits/player_bullet_hit_01.mp3"],
