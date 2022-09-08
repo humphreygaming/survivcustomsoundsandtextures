@@ -13,6 +13,8 @@ const replaces = new  Map([
     ["https://surviv.io/audio/guns/bar_reload_01.mp3", "/audio/guns/bar_reload_01.mp3"],
     ["https://surviv.io/audio/guns/bar_switch_01.mp3", "/audio/guns/bar_switch_01.mp3"],
     ["https://surviv.io/audio/guns/blr_01.mp3", "/audio/guns/blr_01.mp3"],
+    ["https://surviv.io/audio/guns/blr_cycle_01.mp3", "/audio/guns/blr_cycle_01.mp3"],
+    ["https://surviv.io/audio/guns/blr_reload_01.mp3", "/audio/guns/blr_reload_01.mp3"],
     ["https://surviv.io/audio/guns/deagle_01.mp3", "/audio/guns/deagle_01.mp3"],
     ["https://surviv.io/audio/guns/deagle_reload_01.mp3", "/audio/guns/deagle_reload_01.mp3"],
     ["https://surviv.io/audio/guns/deagle_reload_02.mp3", "/audio/guns/deagle_reload_02.mp3"],
@@ -114,10 +116,10 @@ const replaces = new  Map([
     ["https://surviv.io/audio/guns/vss_01.mp3", "/audio/guns/vss_01.mp3"],
     ["https://surviv.io/audio/guns/vss_reload_01.mp3", "/audio/guns/vss_reload_01.mp3"],
     
-    ["https://surviv.io/audio/ambient/menu_music_01.mp3", "/audio/ambient/DarkIceTheme.mp3"],
+    ["https://surviv.io/audio/ambient/menu_music_01.mp3", "/audio/ambient/theme_v2.mp3"],
     ["https://surviv.io/audio/ambient/piano_music_01.mp3", "/audio/ambient/piano_music_01.mp3"],
 
-    ["https://surviv.io/audio/ui/last_man_assigned_01.mp3", "/audio/ui/Lone_Survivr_Theme.mp3"],
+    ["https://surviv.io/audio/ui/last_man_assigned_01.mp3", "/audio/ui/last_man_assigned_01.mp3"],
 
     ["https://surviv.io/audio/hits/axe_hit_01.mp3", "/audio/hits/axe_hit_01.mp3"],
     ["https://surviv.io/audio/hits/player_bullet_hit_01.mp3", "/audio/hits/player_bullet_hit_01.mp3"],
@@ -125,7 +127,8 @@ const replaces = new  Map([
 
     ["https://surviv.io/audio/sfx/log_04.mp3", "/audio/sfx/log_04.mp3"],
     
-    ["https://surviv.io/img/main_splash.jpg", "/img/menu_background.png"]
+    ["https://surviv.io/img/main_splash.jpg", "/img/menu_background.png"],
+    ["https://surviv.io/assets/loadout-0-100-ba5f1ffa.png", "/img/loadout-0-100-ba5f1ffa.png"]
 ]);
 
 const ext = {};

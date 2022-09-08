@@ -1,9 +1,9 @@
 {
     "manifest_version": 2,
-    "name": "Surviv.io Custom Sounds",
-    "author":"HumphreyGaming, brzsmg",
-    "version": "2.1.1",
-    "description": "Custom sounds for surviv.io, worked into an extension by brzsmg, featured in SCI",
+    "name": "Surviv.io Resource Pack",
+    "author": "HumphreyGaming, Tungsten Hexafluoride, brzsmg, IceHacks",
+    "version": "2.2.0",
+    "description": "Custom sounds, music, and textures for Surviv.io. created by HumphreyGaming and Tungsten Hexafluoride, worked into an extension by brzsmg, and now featured in SCI V3.",
     "icons": {
         "128": "ext_128.png"
     },
@@ -19,5 +19,19 @@
         "audio/*",
         "img/*"
     ],
-    "permissions": [ "storage", "webRequest", "webRequestBlocking", "contextMenus", "https://surviv.io/" ]
+    "permissions": [ "storage", "webRequest", "webRequestBlocking", "contextMenus", 
+	    "*://surviv.io/*",
+            "*://surviv2.io/*",
+            "*://2dbattleroyale.com/*",
+            "*://2dbattleroyale.org/*",
+            "*://piearesquared.info/*",
+            "*://thecircleisclosing.com/*",
+            "*://secantsecant.com/*",
+            "*://parmainitiative.com/*",
+            "*://ot38.club/*",
+            "*://drchandlertallow.com/*",
+            "*://ptr.surviv.io/*",
+            "*://iceproxy.herokuapp.com/*",
+            "*://c79geyxwmp1zpas3qxbddzrtytffta.ext-twitch.tv/*"
+                  ]
 }

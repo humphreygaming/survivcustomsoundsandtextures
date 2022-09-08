@@ -10,9 +10,25 @@ How to install:
   * Click "Load unpacked extension..." and select the directory where the zip is located
   * Drag the zip file directly into the chrome://extensions/ window
 
-If you did everything right, congratulations - you know how to computer
+If you did everything right, congratulations - you know how to computer.
 
 ## Changelog
+#### FEATURE UPDATE 2.2 [2022-09-9]
+ * Massive overhaul to all sounds, done by Tungsten Hexaflouride. Should include volume balancing and spent bullet clinks.
+ * New main menu theme: "Hamstera - Minor Inconvenience".
+ * New last survivr theme, added by Tungsten Hexaflouride: "Krys Polezoes - Atomic Heart"
+ * Updated manifest to include all surviv.io proxy sites.
+ * Apparently added BLR reload and cycle, according to diff checker.
+ * Some changes to background.js
+ * Pending sound fixes + rewrites + new sounds
+ * Pending general organization, fixes, and clean-up
+ * [IMPORTANT] In January 2023, Chrome will stop running all extensions running Manifest V2. That includes this one. Discussing plan-of-action on how to migrate to Manifest V3.
+
+#### CONTENT UPDATE 2.1.1 [2022-03-02]
+ * Added a couple new sounds.
+ * Organized the "experimental" folder.
+ * Pending a massive feature update.
+
 #### FEATURE UPDATE 2.1 [2022-01-07]
  * Renamed to Surviv.io Custom Sounds and Textures Resource Pack (SCS&TRP for short)
  * Now (probably) integrated into Surviv.io Cheat Injector V3
